@@ -7,7 +7,3 @@ npm i
 ```bash
 npm run api-service
 ```
-install nodemon if nodemon not installed
-```bash
-npm i nodemon
-```
